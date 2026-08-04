@@ -11,3 +11,9 @@ langchain-google-genai
 requests
 
 sse_starlette
+
+langchain 
+pydantic
+pydantic-settings
+python-dotenv
+google-api-core
